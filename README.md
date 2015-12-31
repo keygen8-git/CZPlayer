@@ -23,17 +23,13 @@ CZPlayer是基于Qt开发的一款功能强大的音乐播放器，该播放器的论坛地址请点击[here](h
  - 在线升级功能
  - 最小化到托盘
  - 单实例启动
+ - 保存以及加载播放列表
+ - 拖动加载歌曲、歌曲文件夹以及播放列表
  - 还有一些功能，就不详细的列出来了 
 
 开发环境
 -------------
-该播放器系统环境是win7，开发环境如下表所示。
-| 版本     | Qt版本 | IDE版本   | 播放引擎  |
-| :------- | ----: | :---: | :---: |
-| CZPlayer1.0 | Qt4.8.x |  QtCreator+VS2010    | phonon
-| CZPlayer2.0    | Qt4.8.x   |  VS2010   | QAudioInput/QAudioOutput
-| CZPlayer3.0     | Qt4.8.x    |  VS2013  | DirectSound
-| CZPlayer4.0     | Qt5.x    |  QtCreator+VS2013  | DirectSound
+该播放器的开发平台为Windows7，QtCreator + VS2013作为集成开发工具，所使用的Qt版本是Qt5.3.2，数据库采用SQLite，DirectSound作为播放引擎，使用到的解码库有libmad、libogg以及libvorbis。
 
  
 
