@@ -6,6 +6,9 @@ CZPlayer是基于Qt开发的一款功能强大的音乐播放器，该播放器的论坛地址请点击[here](h
 
 ----------
 
+运行截图
+-------------
+![enter image description here](https://raw.githubusercontent.com/chxuan/CZPlayer/master/screenshot.png)
 
 功能列表
 -------------
